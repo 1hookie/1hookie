@@ -1,4 +1,4 @@
-# [Твое Имя] — начинающий Mobile Developer
+# Гришин Степан — начинающий Mobile Developer
 
 📍 Москва | 🎓 РТУ МИРЭА, 2 курс (ИИТ)
 
@@ -18,7 +18,7 @@
 
 **Android:** Jetpack Compose, XML-верстка, Activity/Fragment, RecyclerView
 
-**Инструменты:** Android Studio, Git, Postman (для тестов API)
+**Инструменты:** Android Studio, Git, Postman 
 
 **В процессе изучения:** 
 - Coroutines & Flow
