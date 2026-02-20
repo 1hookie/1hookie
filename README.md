@@ -5,7 +5,7 @@
 ### 📱 Чем занимаюсь
 - Изучаю Kotlin и Android-разработку
 - Пишу учебные и пет-проекты
-- Интересуюсь кроссплатформенной разработкой (KMP)
+- Интересуюсь кроссплатформенной разработкой (KMP,Flutter)
 
 ### 🔧 Технологии
 - Kotlin, Java
@@ -13,6 +13,7 @@
 - Git, GitHub
 
 ### 🌱 Сейчас изучаю
+- Flutter & Dart
 - Kotlin Coroutines
 - Работу с API (Retrofit)
 - Основы Clean Architecture
