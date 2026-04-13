@@ -14,7 +14,7 @@
 
 ## Мой стек
 
-**Языки:** Kotlin, Java 
+**Языки:** Kotlin, Java, Dart
 
 **Android:** Jetpack Compose, XML-верстка, Activity/Fragment, RecyclerView
 
@@ -25,15 +25,7 @@
 - Room (базы данных)
 - Ktor / Retrofit
 - Flutter & Dart
-
----
-
-## 🎯 Цели на ближайшее время
-
-- [ ] Написать и выложить в Google Play первое приложение
-- [ ] Пройти отбор на стажировку
-- [ ] Углубиться в Kotlin Multiplatform
-- [ ] Подтянуть алгоритмы и структуры данных
+- 
 
 ---
 
