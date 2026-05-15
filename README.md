@@ -25,7 +25,6 @@
 - Room (базы данных)
 - Ktor / Retrofit
 - Flutter & Dart
-- 
 
 ---
 
