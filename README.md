@@ -1,4 +1,4 @@
-# Гришин Степан — начинающий Mobile Developer
+# Гришин Степан — начинающий Flutter Developer
 
  Москва | РТУ МИРЭА
 
@@ -6,7 +6,7 @@
 
 ## Обо мне
 
-Студент 2 курса РТУ МИРЭА, активно изучаю мобильную разработку под Android.
+Студент РТУ МИРЭА, активно изучаю мобильную разработку под Android/IOS на языке Dart.
 Горю своим делом, стараюсь писать чистый код и разбираться не только в "как",
 но и в "почему это работает именно так".
 
@@ -14,17 +14,11 @@
 
 ## Мой стек
 
-**Языки:** Kotlin, Java, Dart
+**Языки:** Dart, Kotlin, Java 
 
-**Android:** Jetpack Compose, XML-верстка, Activity/Fragment, RecyclerView
+**Фреймворки:** Flutter, Bloc, Riverprod, Activity/Fragment, RecyclerView
 
-**Инструменты:** Android Studio, Git, Postman 
-
-**В процессе изучения:** 
-- Coroutines & Flow
-- Room (базы данных)
-- Ktor / Retrofit
-- Flutter & Dart
+**Инструменты:** VSC, Git, Postman, ClaudeCode.
 
 ---
 
