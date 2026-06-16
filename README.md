@@ -26,4 +26,4 @@
 
 - Telegram: [@hookie1](https://t.me/hookie1)
 - Email: steps.gr@ya.com
-- GitHub: [1hookie](https://github.com/1hookie) 
+
